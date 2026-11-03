@@ -1,0 +1,6 @@
+
+# Static site generated for GitHub Pages
+gh-pages/
+node_modules
+.next
+.env
